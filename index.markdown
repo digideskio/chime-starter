@@ -2,7 +2,7 @@
 "layout": |-
   styleguide
 "title": |-
-  Chime Starter Style Guide
+  Gov Style Guide
 ---
 
 # About this Guide
