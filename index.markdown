@@ -7,7 +7,7 @@
 
 # About this Guide
 
-This is a living style guide based on the live CSS of this site. By building the style guide as a part of the site itself, we'll never need to worry that the style guide falls out of date with the existing site design as documentation tends to do. This style guide is meant for as reference for designers, developers, as well as anyone else interested in the design and front-end concepts we use to build the backbone of government websites.
+This style guide is meant for as reference for designers, developers, as well as anyone else interested in the design and front-end concepts we use to build the backbone of government websites.
 
 # CSS Architecture
 
